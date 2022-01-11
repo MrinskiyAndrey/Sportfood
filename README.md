@@ -48,5 +48,5 @@ https://simpleapi5.herokuapp.com/api/v1/status
 
 ### Travis CI badge
 
-[![Build Status](https://app.travis-ci.com/MrinskiyAndrey/Sportfood.svg?branch=main)](https://app.travis-ci.com/MrinskiyAndrey/Sportfood)
+[![Build Status](https://app.travis-ci.com/MrinskiyAndrey/Sportfood.svg?branch=master)](https://app.travis-ci.com/MrinskiyAndrey/Sportfood)
 
