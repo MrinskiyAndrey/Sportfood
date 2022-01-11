@@ -39,6 +39,12 @@
 
 ## Целью лабораторной работы является знакомство с CI/CD и его реализацией на примере Travis CI и Heroku.
 
+### Ссылки на развернутые приложения в Heroku
+
+https://simpleapi5.herokuapp.com/api/v1/product
+
+https://simpleapi5.herokuapp.com/api/v1/status
+
 
 ### Travis CI badge
 
